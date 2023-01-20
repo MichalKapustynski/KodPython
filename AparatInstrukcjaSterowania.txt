@@ -1,0 +1,15 @@
+Opis sterowania:
+W - ruch do przodu 
+S – ruch do tyłu 
+A – ruch w lewo
+D – ruch w prawo 
+strzałka w górę – podniesienie aparatu
+strzałka w dół – opuszczenie aparatu
+strzałka w lewo – obrót w lewo 
+strzałak w prawo – obrót w prawo
+1 – odchylenie aparatu w dół
+2 – odchylenie aparatu do góry
+E – wychylenie aparatu w prawo 
+Q – wychylenie aparatu w lewo
+9 – oddalenie
+0 - przybliżenie
